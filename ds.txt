@@ -1,0 +1,7 @@
+Data Structures is my favorite Computer Science class at WCC so far.  
+I have mastered simple arrays, dynamic arrays, linked lists, stack, queues, 
+deques, and now binary search trees.  I was awake all night trying to think 
+about how many things I can solve with a binary search tree.  I've got to run 
+for president of the United States to solve the world problems with a binary 
+search tree!  However, first I think I need to queue that task for now and
+work on my current assignment.
